@@ -1,0 +1,9 @@
+.banner_image{
+    clip-path: circle(50% at 82% 10%);
+    height: 100vh;
+    width: 140%;
+}
+.content{
+    width: 80%;
+    height: 80vh;
+}
